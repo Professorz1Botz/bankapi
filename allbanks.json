@@ -1,0 +1,183 @@
+[
+  {
+    "name": "Access Bank",
+    "cardBin": "418742",
+    "smallLogo": "https://files.opayweb.com/images/app/cardbin/Access_Bank4.png",
+    "largeLogo": "https://files.opayweb.com/images/app/cardbin/Access_Bank_PLC3.png"
+  },
+  {
+    "name": "Accion MFB",
+    "cardBin": "506143",
+    "smallLogo": "https://files.opayweb.com/images/app/cardbin/default3.png",
+    "largeLogo": "https://files.opayweb.com/images/app/cardbin/default4.png"
+  },
+  {
+    "name": "ASO Savings and Loans",
+    "cardBin": "506121",
+    "smallLogo": "https://files.opayweb.com/images/app/cardbin/Aso_Savings4.png",
+    "largeLogo": "https://files.opayweb.com/images/app/cardbin/Aso_Savings3.png"
+  },
+  {
+    "name": "Bank Mastercard",
+    "cardBin": "528668",
+    "smallLogo": "https://files.opayweb.com/images/app/cardbin/default4.png",
+    "largeLogo": "https://files.opayweb.com/images/app/cardbin/default3.png"
+  },
+  {
+    "name": "CREDITPREMIER",
+    "cardBin": "458301",
+    "smallLogo": "https://files.opayweb.com/images/app/cardbin/default4.png",
+    "largeLogo": "https://files.opayweb.com/images/app/cardbin/default3.png"
+  },
+  {
+    "name": "Ecobank",
+    "cardBin": "411736",
+    "smallLogo": "https://files.opayweb.com/images/app/cardbin/Ecobank4.png",
+    "largeLogo": "https://files.opayweb.com/images/app/cardbin/Ecobank3.png"
+  },
+  {
+    "name": "Fidelity Bank",
+    "cardBin": "412583",
+    "smallLogo": "https://files.opayweb.com/images/app/cardbin/Fidelity_Bank_Nigeria4.png",
+    "largeLogo": "https://files.opayweb.com/images/app/cardbin/Fidelity_Bank_Nigeria3.png"
+  },
+  {
+    "name": "First Bank Of Nigeria",
+    "cardBin": "000016",
+    "smallLogo": "https://i.postimg.cc/BbdVFt59/Screenshot-20250131-002202.png"
+  },
+  {
+    "name": "First City Monument Bank",
+    "cardBin": "416919",
+    "smallLogo": "https://files.opayweb.com/images/app/cardbin/First_City_Monument_Bank4.png",
+    "largeLogo": "https://files.opayweb.com/images/app/cardbin/First_City_Monument_Bank3.png"
+  },
+  {
+    "name": "Guaranty Trust Bank",
+    "cardBin": "420320",
+    "smallLogo": "https://files.opayweb.com/images/app/cardbin/Guaranty_Trust_Bank4.png",
+    "largeLogo": "https://files.opayweb.com/images/app/cardbin/Guaranty_Trust_Bank3.png"
+  },
+  {
+    "name": "Hasal",
+    "cardBin": "506127",
+    "smallLogo": "https://files.opayweb.com/images/app/cardbin/HASAL4.png",
+    "largeLogo": "https://files.opayweb.com/images/app/cardbin/HASAL3.png"
+  },
+  {
+    "name": "Heritage Bank",
+    "cardBin": "506150",
+    "smallLogo": "https://files.opayweb.com/images/app/cardbin/Heritage_Bank4.png",
+    "largeLogo": "https://files.opayweb.com/images/app/cardbin/Heritage_Bank_PLC3.png"
+  },
+  {
+    "name": "Infinity homes",
+    "cardBin": "506139",
+    "smallLogo": "https://files.opayweb.com/images/app/cardbin/infinity4.png",
+    "largeLogo": "https://files.opayweb.com/images/app/cardbin/infinity3.png"
+  },
+  {
+    "name": "Jaiz Bank",
+    "cardBin": "506137",
+    "smallLogo": "https://files.opayweb.com/images/app/cardbin/Jaiz_ bank4.png",
+    "largeLogo": "https://files.opayweb.com/images/app/cardbin/Jaiz_bank_logo3.png"
+  },
+  {
+    "name": "Keystone Bank",
+    "cardBin": "506110",
+    "smallLogo": "https://files.opayweb.com/images/app/cardbin/Keystone_Bank4.png",
+    "largeLogo": "https://files.opayweb.com/images/app/cardbin/Keystone_Bank3.png"
+  },
+  {
+    "name": "Kuda Microfinance Bank",
+    "cardBin": "090267",
+    "smallLogo": "https://i.postimg.cc/HWNQ4PRL/Screenshot-20250131-002014.png"
+  },
+  {
+    "name": "Moniepoint Microfinance Bank",
+    "cardBin": "090405",
+    "smallLogo": "https://i.postimg.cc/sfnhP3SB/Screenshot-20250131-001822.png"
+  },
+  {
+    "name": "OPay",
+    "cardBin": "100004",
+    "smallLogo": "https://i.postimg.cc/xCsLgDyL/Screenshot-20250608-183936-1749765403369.jpg"
+  },
+  {
+    "name": "Palmpay",
+    "cardBin": "100033",
+    "smallLogo": "https://i.postimg.cc/90WyFQt6/Screenshot-20250529-173618-removebg-preview.png"
+  },
+  {
+    "name": "Parallex Bank",
+    "cardBin": "506124",
+    "smallLogo": "https://files.opayweb.com/images/app/cardbin/Parallexbank4.png",
+    "largeLogo": "https://files.opayweb.com/images/app/cardbin/Parallexbank3.png"
+  },
+  {
+    "name": "Polaris Bank",
+    "cardBin": "419227",
+    "smallLogo": "https://files.opayweb.com/images/app/cardbin/Polaris_Bank4.png",
+    "largeLogo": "https://files.opayweb.com/images/app/cardbin/Polaris_Bank3.png"
+  },
+  {
+    "name": "Stanbic IBTC Bank",
+    "cardBin": "444506",
+    "smallLogo": "https://files.opayweb.com/images/app/cardbin/Stanbic_IBTC_Bank4.png",
+    "largeLogo": "https://files.opayweb.com/images/app/cardbin/Stanbic_IBTC_Bank3.png"
+  },
+  {
+    "name": "Standard Chartered Bank",
+    "cardBin": "458587",
+    "smallLogo": "https://files.opayweb.com/images/app/cardbin/Standard_Chartered4.png",
+    "largeLogo": "https://files.opayweb.com/images/app/cardbin/Standard_Chartered3.png"
+  },
+  {
+    "name": "Sterling Bank",
+    "cardBin": "506125",
+    "smallLogo": "https://files.opayweb.com/images/app/cardbin/Sterling_Bank4.png",
+    "largeLogo": "https://files.opayweb.com/images/app/cardbin/Sterling_Bank3.png"
+  },
+  {
+    "name": "SunTrust Bank",
+    "cardBin": "506180",
+    "smallLogo": "https://files.opayweb.com/images/app/cardbin/suntrust_bank4.png",
+    "largeLogo": "https://files.opayweb.com/images/app/cardbin/suntrust_bank3.png"
+  },
+  {
+    "name": "Union Bank of Nigeria",
+    "cardBin": "492586",
+    "smallLogo": "https://files.opayweb.com/images/app/cardbin/Union_Bank4.png",
+    "largeLogo": "https://files.opayweb.com/images/app/cardbin/Union_Bank_Nigeria3.png"
+  },
+  {
+    "name": "United Bank for Africa",
+    "cardBin": "5422584",
+    "smallLogo": "https://files.opayweb.com/images/app/cardbin/United_Bank_for_Africa4.png",
+    "largeLogo": "https://files.opayweb.com/images/app/cardbin/United_Bank_for_Africa3.png"
+  },
+  {
+    "name": "Unity Bank",
+    "cardBin": "506117",
+    "smallLogo": "https://files.opayweb.com/images/app/cardbin/unity_bank4.png",
+    "largeLogo": "https://files.opayweb.com/images/app/cardbin/unity_bank3.png"
+  },
+  {
+    "name": "Verve",
+    "cardBin": "507",
+    "smallLogo": "https://files.opayweb.com/images/app/cardbin/verve_circle.png",
+    "largeLogo": "https://files.opayweb.com/images/app/cardbin/verve_rect.png"
+  },
+  {
+    "name": "Wema Bank",
+    "cardBin": "457803",
+    "smallLogo": "https://files.opayweb.com/images/app/cardbin/Wema_Bank4.png",
+    "largeLogo": "https://files.opayweb.com/images/app/cardbin/Wema_Bank3.png"
+  },
+  {
+    "name": "Zenith Bank",
+    "cardBin": "450073",
+    "smallLogo": "https://files.opayweb.com/images/app/cardbin/Zenith_Bank4.png",
+    "largeLogo": "https://files.opayweb.com/images/app/cardbin/Zenith_Bank3.png"
+  }
+]
