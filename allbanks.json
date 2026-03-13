@@ -84,7 +84,7 @@
   },
   {
     "name": "Keystone Bank",
-    "cardBin": "506110",
+    "cardBin": "000002",
     "smallLogo": "https://files.opayweb.com/images/app/cardbin/Keystone_Bank4.png",
     "largeLogo": "https://files.opayweb.com/images/app/cardbin/Keystone_Bank3.png"
   },
@@ -152,13 +152,13 @@
   },
   {
     "name": "United Bank for Africa",
-    "cardBin": "5422584",
+    "cardBin": "000004",
     "smallLogo": "https://files.opayweb.com/images/app/cardbin/United_Bank_for_Africa4.png",
     "largeLogo": "https://files.opayweb.com/images/app/cardbin/United_Bank_for_Africa3.png"
   },
   {
     "name": "Unity Bank",
-    "cardBin": "506117",
+    "cardBin": "000011",
     "smallLogo": "https://files.opayweb.com/images/app/cardbin/unity_bank4.png",
     "largeLogo": "https://files.opayweb.com/images/app/cardbin/unity_bank3.png"
   },
@@ -176,7 +176,7 @@
   },
   {
     "name": "Zenith Bank",
-    "cardBin": "450073",
+    "cardBin": "000015",
     "smallLogo": "https://files.opayweb.com/images/app/cardbin/Zenith_Bank4.png",
     "largeLogo": "https://files.opayweb.com/images/app/cardbin/Zenith_Bank3.png"
   }
